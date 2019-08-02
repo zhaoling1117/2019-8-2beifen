@@ -1,0 +1,86 @@
+{
+  "uid" : "a45388031a8fbf87",
+  "name" : "test_change_pwd_var",
+  "fullName" : "test_case.buiness_process.test_user_admin_buiness_process#test_change_pwd_var",
+  "historyId" : "7b7c394b7772bbaee3796ba154c7f85b",
+  "time" : {
+    "start" : 1564112284663,
+    "stop" : 1564112284805,
+    "duration" : 142
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "76874f505dbf3b96",
+      "name" : "请求",
+      "source" : "76874f505dbf3b96.txt",
+      "type" : "text/plain",
+      "size" : 372
+    }, {
+      "uid" : "2d598342d9377d62",
+      "name" : "响应",
+      "source" : "2d598342d9377d62.txt",
+      "type" : "text/plain",
+      "size" : 620
+    }, {
+      "uid" : "f613291acb532650",
+      "name" : "log",
+      "source" : "f613291acb532650.txt",
+      "type" : "text/plain",
+      "size" : 2001
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "注册-新用户"
+  }, {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.buiness_process"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_admin_buiness_process"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "5020-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.buiness_process.test_user_admin_buiness_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a45388031a8fbf87.json",
+  "parameterValues" : [ ]
+}

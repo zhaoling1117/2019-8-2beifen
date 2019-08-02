@@ -1,0 +1,152 @@
+{
+  "uid" : "d6babde10f2bcdd6",
+  "name" : "test_product_add[添加商品分类_全字段正常流_3]",
+  "fullName" : "test_case.product_category.test_product_category_add#test_product_add[添加商品分类_全字段正常流_3]",
+  "historyId" : "701a6676a53903a094f5c1297a67bb8a",
+  "time" : {
+    "start" : 1564133317801,
+    "stop" : 1564133317919,
+    "duration" : 118
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "token",
+    "time" : {
+      "start" : 1564133317365,
+      "stop" : 1564133317546,
+      "duration" : 181
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "34f11e8906c40236",
+      "name" : "请求",
+      "source" : "34f11e8906c40236.txt",
+      "type" : "text/plain",
+      "size" : 274
+    }, {
+      "uid" : "7be3ab3572c24ba",
+      "name" : "响应",
+      "source" : "7be3ab3572c24ba.txt",
+      "type" : "text/plain",
+      "size" : 629
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "断言响应码，实际结果：200，预期结果为：200",
+      "time" : {
+        "start" : 1564133317918,
+        "stop" : 1564133317918,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "断言code，实际结果为：200，预期结果为200.0",
+      "time" : {
+        "start" : 1564133317919,
+        "stop" : 1564133317919,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b31ff4c692d917f2",
+      "name" : "请求",
+      "source" : "b31ff4c692d917f2.txt",
+      "type" : "text/plain",
+      "size" : 903
+    }, {
+      "uid" : "803a56e02f23b8f0",
+      "name" : "响应",
+      "source" : "803a56e02f23b8f0.txt",
+      "type" : "text/plain",
+      "size" : 413
+    }, {
+      "uid" : "aa50c70cb65c0e68",
+      "name" : "log",
+      "source" : "aa50c70cb65c0e68.txt",
+      "type" : "text/plain",
+      "size" : 2403
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "商品分类管理"
+  }, {
+    "name" : "story",
+    "value" : "添加商品分类"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.product_category"
+  }, {
+    "name" : "suite",
+    "value" : "test_product_category_add"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "5304-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.product_category.test_product_category_add"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "code",
+    "value" : "200.0"
+  }, {
+    "name" : "datas",
+    "value" : "'{\n  \"description\": \"fghfhfhfghfhfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'"
+  }, {
+    "name" : "uri",
+    "value" : "'/productCategory/create'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d6babde10f2bcdd6.json",
+  "parameterValues" : [ "200.0", "'{\n  \"description\": \"fghfhfhfghfhfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'", "'/productCategory/create'" ]
+}

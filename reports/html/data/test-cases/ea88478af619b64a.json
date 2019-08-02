@@ -1,0 +1,68 @@
+{
+  "uid" : "ea88478af619b64a",
+  "name" : "test_121",
+  "fullName" : "test_case.user_admin.test_demo2#test_121",
+  "historyId" : "772c8f02da020eaa884a943eb02dad6f",
+  "time" : {
+    "start" : 1564111920882,
+    "stop" : 1564111920883,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ea22af53f14eb5c7",
+      "name" : "stdout",
+      "source" : "ea22af53f14eb5c7.txt",
+      "type" : "text/plain",
+      "size" : 4
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.user_admin"
+  }, {
+    "name" : "suite",
+    "value" : "test_demo2"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "4800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.user_admin.test_demo2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea88478af619b64a.json",
+  "parameterValues" : [ ]
+}

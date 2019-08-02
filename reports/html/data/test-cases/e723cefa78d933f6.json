@@ -1,0 +1,150 @@
+{
+  "uid" : "e723cefa78d933f6",
+  "name" : "test_logn",
+  "fullName" : "test_case.buiness_process.test_user_admin_buiness_process#test_logn",
+  "historyId" : "2b78b7eff8a17bd9ed82021ea28a92f7",
+  "time" : {
+    "start" : 1564132546001,
+    "stop" : 1564132546135,
+    "duration" : 134
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "断言响应状态码，实际结果是：200，预期结果为：200",
+      "time" : {
+        "start" : 1564132546134,
+        "stop" : 1564132546134,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "断言登录响言，实际结果是：Bearer ，预期结果为：Bearer ",
+      "time" : {
+        "start" : 1564132546135,
+        "stop" : 1564132546135,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e3963175ef9c956c",
+      "name" : "请求",
+      "source" : "e3963175ef9c956c.txt",
+      "type" : "text/plain",
+      "size" : 291
+    }, {
+      "uid" : "b404707ffea5a589",
+      "name" : "响应",
+      "source" : "b404707ffea5a589.txt",
+      "type" : "text/plain",
+      "size" : 641
+    }, {
+      "uid" : "b5c66bf1329073a",
+      "name" : "log",
+      "source" : "b5c66bf1329073a.txt",
+      "type" : "text/plain",
+      "size" : 1941
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "story",
+    "value" : "登录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.buiness_process"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_admin_buiness_process"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "6024-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.buiness_process.test_user_admin_buiness_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c7eed9210abaf6ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564113767503,
+        "stop" : 1564113767643,
+        "duration" : 140
+      }
+    }, {
+      "uid" : "624aa441a90abc7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564113044695,
+        "stop" : 1564113044838,
+        "duration" : 143
+      }
+    }, {
+      "uid" : "2b076c749a90553b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564112285050,
+        "stop" : 1564112285181,
+        "duration" : 131
+      }
+    }, {
+      "uid" : "8cf630c76ee1fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1564111920601,
+        "stop" : 1564111920738,
+        "duration" : 137
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e723cefa78d933f6.json",
+  "parameterValues" : [ ]
+}

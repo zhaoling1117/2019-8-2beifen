@@ -1,0 +1,14 @@
+---------------响应----------------
+200
+X-Application-Context: application:prod
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Fri, 26 Jul 2019 09:28:34 GMT
+
+{"code":200,"message":"操作成功","data":{"tokenHead":"Bearer ","token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImNyZWF0ZWQiOjE1NjQxMzMzMTQ1OTgsImV4cCI6MTU2NDczODExNH0.-OQijinHcla-qVQY08vq8Z3ue2XIiH43QSs6DLa7GloQw9-ru-SuU5ML5RjV5xHVJ6PIiblq5nvwHDqG8Gwesw"}}

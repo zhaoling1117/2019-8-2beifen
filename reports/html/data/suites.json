@@ -1,0 +1,339 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case.buiness_process",
+    "children" : [ {
+      "name" : "test_user_admin_buiness_process",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_change_pwd_var",
+          "uid" : "b2eb640db90a5d0f",
+          "parentUid" : "85eb03277a29ddc58488fbec631b1798",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132545635,
+            "stop" : 1564132545749,
+            "duration" : 114
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_updata_role",
+          "uid" : "c3e7229e9fe49d24",
+          "parentUid" : "85eb03277a29ddc58488fbec631b1798",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132545755,
+            "stop" : 1564132545885,
+            "duration" : 130
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_admind_role",
+          "uid" : "2f517d147ea185e9",
+          "parentUid" : "85eb03277a29ddc58488fbec631b1798",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132545889,
+            "stop" : 1564132545995,
+            "duration" : 106
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_logn",
+          "uid" : "e723cefa78d933f6",
+          "parentUid" : "85eb03277a29ddc58488fbec631b1798",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546001,
+            "stop" : 1564132546135,
+            "duration" : 134
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_user_info",
+          "uid" : "f9c2c96344a0150",
+          "parentUid" : "85eb03277a29ddc58488fbec631b1798",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546141,
+            "stop" : 1564132546246,
+            "duration" : 105
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "85eb03277a29ddc58488fbec631b1798"
+      } ],
+      "uid" : "eb8b94a2cb391f38d93ebc20d7359996"
+    } ],
+    "uid" : "4ce23ab70946f1602e05b0a0003bef9d"
+  }, {
+    "name" : "test_case.demo",
+    "children" : [ {
+      "name" : "test_hello",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_hello_world",
+          "uid" : "d026a465bc837a8c",
+          "parentUid" : "ef4c80e24c1aba7cbb5ad62cc754d25b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546252,
+            "stop" : 1564132546254,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "ef4c80e24c1aba7cbb5ad62cc754d25b"
+      } ],
+      "uid" : "bc2f512f0b1584520e45f75658ba508c"
+    } ],
+    "uid" : "f0a9603375d749ec9567ebad0169ddc6"
+  }, {
+    "name" : "test_case.user_admin",
+    "children" : [ {
+      "name" : "test_demo1",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_211",
+          "uid" : "848647c001a3a989",
+          "parentUid" : "90be026debc10811c5546a19745a164c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546789,
+            "stop" : 1564132546789,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_322",
+          "uid" : "7e95e9c258aa05ac",
+          "parentUid" : "90be026debc10811c5546a19745a164c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546793,
+            "stop" : 1564132546793,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "90be026debc10811c5546a19745a164c"
+      } ],
+      "uid" : "ea34a7c2b1971b6470d2d28530f5d31d"
+    }, {
+      "name" : "test_demo2",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_121",
+          "uid" : "d9fc659d3e11b2a7",
+          "parentUid" : "f170797f2e0e95fb5004d046557d8902",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546797,
+            "stop" : 1564132546798,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_232",
+          "uid" : "e068f68413a5ce23",
+          "parentUid" : "f170797f2e0e95fb5004d046557d8902",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546802,
+            "stop" : 1564132546802,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f170797f2e0e95fb5004d046557d8902"
+      } ],
+      "uid" : "1b8d66696b4947028ef2463675d113ab"
+    }, {
+      "name" : "test_demo3",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_151",
+          "uid" : "a09c3ea6fc169397",
+          "parentUid" : "282ee052449a5bc57531e8a401eb13c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546806,
+            "stop" : 1564132546806,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_252",
+          "uid" : "e195d92bcfdf4bb2",
+          "parentUid" : "282ee052449a5bc57531e8a401eb13c9",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546809,
+            "stop" : 1564132546810,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "282ee052449a5bc57531e8a401eb13c9"
+      } ],
+      "uid" : "d37613865f1f6e84a252e74b7d640f4b"
+    }, {
+      "name" : "test_user_login",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_login",
+          "uid" : "c996c0f6d1b5b036",
+          "parentUid" : "9b95f6e742406839765704cc059eb73c",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132546812,
+            "stop" : 1564132546933,
+            "duration" : 121
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "9b95f6e742406839765704cc059eb73c"
+      } ],
+      "uid" : "4e0a00d04187cf8d551ca3538cabeb65"
+    }, {
+      "name" : "test_user_register",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_user_admin_register_1",
+          "uid" : "ba6d3ca2b564c0bd",
+          "parentUid" : "71e4b6a9c00e67ad50e576b9db013970",
+          "status" : "broken",
+          "time" : {
+            "start" : 1564132546940,
+            "stop" : 1564132547046,
+            "duration" : 106
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "71e4b6a9c00e67ad50e576b9db013970"
+      } ],
+      "uid" : "626b64383f9417997d13defedcb37169"
+    } ],
+    "uid" : "39fd1d543a4ef2b07fe0bc3a46659077"
+  }, {
+    "name" : "test_case.user_admin.user_admin_01",
+    "children" : [ {
+      "name" : "test_user_admin_01",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_user_register",
+          "uid" : "1da9b303f33ea611",
+          "parentUid" : "69dcd7377dc95338d2ccbac75d690411",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132547132,
+            "stop" : 1564132547244,
+            "duration" : 112
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_user_update_role",
+          "uid" : "9a07b2f13b3fb0c8",
+          "parentUid" : "69dcd7377dc95338d2ccbac75d690411",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564132547247,
+            "stop" : 1564132547361,
+            "duration" : 114
+          },
+          "flaky" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "69dcd7377dc95338d2ccbac75d690411"
+      } ],
+      "uid" : "345d4f42602640774a2ddd8a4d64e9f2"
+    } ],
+    "uid" : "9ef531b3376e03a9020f5f5d8db76219"
+  }, {
+    "name" : "test_case.product_category",
+    "children" : [ {
+      "name" : "test_product_category_add",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_product_add[添加商品分类_全字段正常流_1]",
+          "uid" : "78db83c888780fc4",
+          "parentUid" : "3edf0e0a9cf5aef4a848f8e9d950ff3e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564559265565,
+            "stop" : 1564559265689,
+            "duration" : 124
+          },
+          "flaky" : false,
+          "parameters" : [ "200.0", "'{\n  \"description\": \"a\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'", "'/productCategory/create'" ]
+        }, {
+          "name" : "test_product_add[添加商品分类_全字段正常流_2]",
+          "uid" : "5076e642a85487af",
+          "parentUid" : "3edf0e0a9cf5aef4a848f8e9d950ff3e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564559265711,
+            "stop" : 1564559265850,
+            "duration" : 139
+          },
+          "flaky" : false,
+          "parameters" : [ "200.0", "'{\n  \"description\": \"fghfhfhfghfhfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'", "'/productCategory/create'" ]
+        }, {
+          "name" : "test_product_add[添加商品分类_全字段正常流_3]",
+          "uid" : "a0ff03ec41947884",
+          "parentUid" : "3edf0e0a9cf5aef4a848f8e9d950ff3e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564559265875,
+            "stop" : 1564559265991,
+            "duration" : 116
+          },
+          "flaky" : false,
+          "parameters" : [ "200.0", "'{\n  \"description\": \"fghfhfhfghfhfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggfgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg\",\n  \"icon\": \"http://img5.imgtn.bdimg.com/it/u=3300305952,1328708913&fm=26&gp=0.jpg\",\n  \"keywords\": \"s\",\n  \"name\": \"车\",\n  \"navStatus\": 0,\n  \"parentId\": 0,\n  \"productAttributeIdList\": [\n    1\n  ],\n  \"productUnit\": \"件\",\n  \"showStatus\": 0,\n  \"sort\": 0\n}'", "'/productCategory/create'" ]
+        } ],
+        "uid" : "3edf0e0a9cf5aef4a848f8e9d950ff3e"
+      } ],
+      "uid" : "3644b968f38d92278dd10560c3b235e6"
+    } ],
+    "uid" : "f38d78005efe7a0c98ef4fe3853b0969"
+  }, {
+    "name" : "test_case.ui.mall",
+    "children" : [ {
+      "name" : "test_mall_add_1",
+      "children" : [ {
+        "children" : [ {
+          "name" : "test_login",
+          "uid" : "5a4569e19476b33b",
+          "parentUid" : "e50b4a4722b082bfb587beea61b395cd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1564628986110,
+            "stop" : 1564629023629,
+            "duration" : 37519
+          },
+          "flaky" : true,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e50b4a4722b082bfb587beea61b395cd"
+      } ],
+      "uid" : "40e7240edc6147f3f6c34c1f8289b1ea"
+    } ],
+    "uid" : "6fcce72bb644eaa4c6a8a4cb28dade3a"
+  } ]
+}

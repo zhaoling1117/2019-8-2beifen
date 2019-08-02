@@ -1,0 +1,80 @@
+{
+  "uid" : "a92e9c5de4e96ba0",
+  "name" : "test_login",
+  "fullName" : "test_case.user_admin.test_user_login#test_login",
+  "historyId" : "13443f792808f717e114da7062ae5717",
+  "time" : {
+    "start" : 1564112285320,
+    "stop" : 1564112285453,
+    "duration" : 133
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ee6ad43e9459557e",
+      "name" : "请求",
+      "source" : "ee6ad43e9459557e.txt",
+      "type" : "text/plain",
+      "size" : 274
+    }, {
+      "uid" : "2bbd90f661d9203d",
+      "name" : "响应",
+      "source" : "2bbd90f661d9203d.txt",
+      "type" : "text/plain",
+      "size" : 629
+    }, {
+      "uid" : "af9495d9d276b4d7",
+      "name" : "log",
+      "source" : "af9495d9d276b4d7.txt",
+      "type" : "text/plain",
+      "size" : 1911
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case.user_admin"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_login"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "5020-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.user_admin.test_user_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a92e9c5de4e96ba0.json",
+  "parameterValues" : [ ]
+}

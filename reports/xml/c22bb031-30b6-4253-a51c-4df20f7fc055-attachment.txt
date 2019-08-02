@@ -1,0 +1,25 @@
+----请求用时: 115.163 秒数
+---------------请求-----------------
+http://qa.yansl.com:8080/admin/register
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+Content-Length: 135
+Content-Type: application/json
+
+b'{"email": "string", "icon": "string", "nickName": "string", "note": "string", "password": "123456", "username": "\\u8d75\\u4ee4gviRgWSX"}'
+---------------响应----------------
+200
+X-Application-Context: application:prod
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Date: Fri, 26 Jul 2019 03:31:57 GMT
+
+{"code":200,"message":"操作成功","data":{"id":793,"username":"赵令gviRgWSX","password":"e10adc3949ba59abbe56e057f20f883e","icon":"string","email":"string","nickName":"string","note":"string","createTime":1564111917071,"loginTime":null,"status":1}}

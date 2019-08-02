@@ -1,0 +1,92 @@
+{
+  "uid" : "8cf630c76ee1fd",
+  "name" : "test_logn",
+  "fullName" : "test_case.buiness_process.test_user_admin_buiness_process#test_logn",
+  "historyId" : "2b78b7eff8a17bd9ed82021ea28a92f7",
+  "time" : {
+    "start" : 1564111920601,
+    "stop" : 1564111920738,
+    "duration" : 137
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "692ff988579a0a6a",
+      "name" : "请求",
+      "source" : "692ff988579a0a6a.txt",
+      "type" : "text/plain",
+      "size" : 291
+    }, {
+      "uid" : "59c19563c6cfac5d",
+      "name" : "响应",
+      "source" : "59c19563c6cfac5d.txt",
+      "type" : "text/plain",
+      "size" : 641
+    }, {
+      "uid" : "6d07bcb14c6c79fd",
+      "name" : "log",
+      "source" : "6d07bcb14c6c79fd.txt",
+      "type" : "text/plain",
+      "size" : 1941
+    }, {
+      "uid" : "6e2ac5fd87848e6c",
+      "name" : "stderr",
+      "source" : "6e2ac5fd87848e6c.txt",
+      "type" : "text/plain",
+      "size" : 967
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "登录"
+  }, {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.buiness_process"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_admin_buiness_process"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "4800-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.buiness_process.test_user_admin_buiness_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8cf630c76ee1fd.json",
+  "parameterValues" : [ ]
+}

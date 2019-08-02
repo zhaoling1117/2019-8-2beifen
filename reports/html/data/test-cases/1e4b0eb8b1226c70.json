@@ -1,0 +1,86 @@
+{
+  "uid" : "1e4b0eb8b1226c70",
+  "name" : "test_admind_role",
+  "fullName" : "test_case.buiness_process.test_user_admin_buiness_process#test_admind_role",
+  "historyId" : "895b6bac9b260e9666ce6f3dd453e0f6",
+  "time" : {
+    "start" : 1564113044588,
+    "stop" : 1564113044689,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "def01fccc8aa888",
+      "name" : "请求",
+      "source" : "def01fccc8aa888.txt",
+      "type" : "text/plain",
+      "size" : 185
+    }, {
+      "uid" : "7575d6a32be37892",
+      "name" : "响应",
+      "source" : "7575d6a32be37892.txt",
+      "type" : "text/plain",
+      "size" : 949
+    }, {
+      "uid" : "f10e2bdf6f7942ac",
+      "name" : "log",
+      "source" : "f10e2bdf6f7942ac.txt",
+      "type" : "text/plain",
+      "size" : 2064
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "后台用户管理流程"
+  }, {
+    "name" : "story",
+    "value" : "查询用户角色信息"
+  }, {
+    "name" : "parentSuite",
+    "value" : "test_case.buiness_process"
+  }, {
+    "name" : "suite",
+    "value" : "test_user_admin_buiness_process"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "SKY-20190318DNT"
+  }, {
+    "name" : "thread",
+    "value" : "624-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.buiness_process.test_user_admin_buiness_process"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e4b0eb8b1226c70.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,48 @@
+{
+  "total" : 14,
+  "items" : [ {
+    "uid" : "70ef9c68d60967fd5949ef5ef163480b",
+    "name" : "后台用户管理流程",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "137d3854114171e2bbe26758f255f055",
+    "name" : "一级归类",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1b8dfccccedc47435efd7dd4d4ad5076",
+    "name" : "商品分类管理",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "239687b4c9a1fbde348dff786b1f1fc1",
+    "name" : "添加商品分类流程",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

@@ -1,0 +1,2 @@
+{"code":200,"message":"操作成功","data":{"tokenHead":"Bearer ","token":"eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImNyZWF0ZWQiOjE1NjQxMTE5MTc3MzMsImV4cCI6MTU2NDcxNjcxN30.-H6a2LFtSm8g4X8bQl-_6HREqZCKMBEGvweoY2QugsiEGvEgoBb3W-FvLJPMx-7XtW1OLlnXDWtLQJ3hosDHYQ"}}
+{'code': 200, 'message': '操作成功', 'data': {'tokenHead': 'Bearer ', 'token': 'eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImNyZWF0ZWQiOjE1NjQxMTE5MTc3MzMsImV4cCI6MTU2NDcxNjcxN30.-H6a2LFtSm8g4X8bQl-_6HREqZCKMBEGvweoY2QugsiEGvEgoBb3W-FvLJPMx-7XtW1OLlnXDWtLQJ3hosDHYQ'}}
